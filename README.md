@@ -6,7 +6,6 @@ I'm a Software Engineer based in Rivers, Nigeria with a B.Eng in Electrical and 
 
 **Here's a quick summary about me**:
 
-- 😊 Pronouns: He/him
 - 💡 Fun fact: I am a student at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2023.
 - 🌱 Some of my skills: Python, Html5, and CSS.
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entr-level opportunities.
